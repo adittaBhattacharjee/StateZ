@@ -1,4 +1,4 @@
-import lexer_and_parser as program
+import main as program
 
 while True:
     console = input("$stateZ > ")
