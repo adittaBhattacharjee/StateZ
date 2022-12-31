@@ -1,4 +1,4 @@
-import main as program
+import interpreter as program
 
 while True:
     console = input("$stateZ > ")
